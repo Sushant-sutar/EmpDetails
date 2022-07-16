@@ -1,5 +1,4 @@
-
-const  EmpDetails = [
+ [
     {
         "firstName"     : "sumit",
         "middleName"    : "suresh",
