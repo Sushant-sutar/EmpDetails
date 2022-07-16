@@ -1,4 +1,5 @@
- [
+ {
+  "EmpDetails" : [
     {
         "firstName"     : "sumit",
         "middleName"    : "suresh",
@@ -30,3 +31,4 @@
         "Citizen"       : "Indian"
     }
 ]
+}
